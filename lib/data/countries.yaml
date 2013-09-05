@@ -126,7 +126,7 @@ AG:
   continent: North America
   alpha2: AG
   alpha3: ATG
-  country_code: '+1268'
+  country_code: '1268'
   currency: XCD
   international_prefix: '011'
   ioc: ANT
@@ -164,7 +164,7 @@ AI:
   continent: North America
   alpha2: AI
   alpha3: AIA
-  country_code: '+1264'
+  country_code: '1264'
   currency: XCD
   international_prefix: '011'
   ioc:
@@ -429,7 +429,7 @@ AS:
   continent: Australia
   alpha2: AS
   alpha3: ASM
-  country_code: '+1684'
+  country_code: '1684'
   currency: USD
   international_prefix: '011'
   ioc: ASA
@@ -720,7 +720,7 @@ BB:
   continent: North America
   alpha2: BB
   alpha3: BRB
-  country_code: '+1246'
+  country_code: '1246'
   currency: BBD
   international_prefix: '011'
   ioc: BAR
@@ -1067,7 +1067,7 @@ BM:
   continent: North America
   alpha2: BM
   alpha3: BMU
-  country_code: '+1441'
+  country_code: '1441'
   currency: BMD
   international_prefix: '011'
   ioc: BER
@@ -1249,7 +1249,7 @@ BS:
   continent: North America
   alpha2: BS
   alpha3: BHS
-  country_code: '+1242'
+  country_code: '1242'
   currency: BSD
   international_prefix: '011'
   ioc: BAH
@@ -3570,7 +3570,7 @@ GU:
   continent: Australia
   alpha2: GU
   alpha3: GUM
-  country_code: '+1671'
+  country_code: '1671'
   currency: USD
   international_prefix: '011'
   ioc: GUM
@@ -4374,7 +4374,7 @@ JM:
   continent: North America
   alpha2: JM
   alpha3: JAM
-  country_code: '+1876'
+  country_code: '1876'
   currency: JMD
   international_prefix: '011'
   ioc: JAM
@@ -4685,7 +4685,7 @@ KN:
   continent: North America
   alpha2: KN
   alpha3: KNA
-  country_code: '+1869'
+  country_code: '1869'
   currency: XCD
   international_prefix: '011'
   ioc: SKN
@@ -4855,7 +4855,7 @@ KY:
   continent: North America
   alpha2: KY
   alpha3: CYM
-  country_code: '+1345'
+  country_code: '1345'
   currency: KYD
   international_prefix: '011'
   ioc: CAY
@@ -5010,7 +5010,7 @@ LC:
   continent: North America
   alpha2: LC
   alpha3: LCA
-  country_code: '+1758'
+  country_code: '1758'
   currency: XCD
   international_prefix: '011'
   ioc: LCA
@@ -5800,7 +5800,7 @@ MP:
   continent: Australia
   alpha2: MP
   alpha3: MNP
-  country_code: '+1670'
+  country_code: '1670'
   currency: USD
   international_prefix: '011'
   ioc:
@@ -5912,7 +5912,7 @@ MS:
   continent: North America
   alpha2: MS
   alpha3: MSR
-  country_code: '+1664'
+  country_code: '1664'
   currency: XCD
   international_prefix: '011'
   ioc:
@@ -7073,7 +7073,7 @@ PR:
   continent: North America
   alpha2: PR
   alpha3: PRI
-  country_code: '+1787'
+  country_code: '1787'
   currency: USD
   international_prefix: '011'
   ioc: PUR
@@ -8208,7 +8208,7 @@ SX:
   continent: North America
   alpha2: SX
   alpha3: SXM
-  country_code: '+1721'
+  country_code: '1721'
   currency: ANG
   international_prefix: '011'
   latitude: ''
@@ -8319,7 +8319,7 @@ TC:
   continent: North America
   alpha2: TC
   alpha3: TCA
-  country_code: '+1649'
+  country_code: '1649'
   currency: USD
   international_prefix: '011'
   ioc:
@@ -8773,7 +8773,7 @@ TT:
   continent: North America
   alpha2: TT
   alpha3: TTO
-  country_code: '+1868'
+  country_code: '1868'
   currency: TTD
   international_prefix: '011'
   ioc: TRI
@@ -9201,7 +9201,7 @@ VC:
   continent: North America
   alpha2: VC
   alpha3: VCT
-  country_code: '+1784'
+  country_code: '1784'
   currency: XCD
   international_prefix: '011'
   ioc: VIN
@@ -9273,7 +9273,7 @@ VG:
   continent: North America
   alpha2: VG
   alpha3: VGB
-  country_code: '+1284'
+  country_code: '1284'
   currency: USD
   international_prefix: '011'
   ioc: IVB
@@ -9311,7 +9311,7 @@ VI:
   continent: North America
   alpha2: VI
   alpha3: VIR
-  country_code: '+1340'
+  country_code: '1340'
   currency: USD
   international_prefix: '011'
   ioc: ISV
